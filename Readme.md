@@ -1,0 +1,1 @@
+Here is a short tutorial to train your own OCR
